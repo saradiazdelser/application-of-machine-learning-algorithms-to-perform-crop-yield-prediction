@@ -58,4 +58,4 @@ venv.bak/
 
 
 # Project Folders
-temp/
+.temp/
