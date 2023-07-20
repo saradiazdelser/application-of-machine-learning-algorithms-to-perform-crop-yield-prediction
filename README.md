@@ -41,4 +41,4 @@ Objective | Status | Comment
 Data Analysis | COMPLETE | ![](https://geps.dev/progress/100)
 Model Comparison | COMPLETE | ![](https://geps.dev/progress/100)
 Model Training | COMPLETE | ![](https://geps.dev/progress/100)  
-App Development | WIP  |  ![](https://geps.dev/progress/20) Due to time restraints, this is still a work in progress.     
+App Development | WIP  |  ![](https://geps.dev/progress/20)     
