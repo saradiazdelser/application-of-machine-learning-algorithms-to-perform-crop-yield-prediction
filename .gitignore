@@ -55,7 +55,8 @@ venv.bak/
 
 # PyCharm
 .idea/
-
+/ .idea/
 
 # Project Folders
-.temp/
+.temp
+/.temp/
